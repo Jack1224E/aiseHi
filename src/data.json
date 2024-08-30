@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Rohan Sharma",
+    "dob": "1990-01-15",
+    "nationality": "Indian",
+    "religion": "Hindu",
+    "sex": "Male",
+    "category": "General"
+  },
+  {
+    "name": "Aisha Khan",
+    "dob": "1985-03-22",
+    "nationality": "Indian",
+    "religion": "Muslim",
+    "sex": "Female",
+    "category": "OBC"
+  },
+  {
+    "name": "Arjun Singh",
+    "dob": "1992-07-19",
+    "nationality": "Indian",
+    "religion": "Sikh",
+    "sex": "Male",
+    "category": "General"
+  },
+  {
+    "name": "Neha Patel",
+    "dob": "1995-11-08",
+    "nationality": "Indian",
+    "religion": "Hindu",
+    "sex": "Female",
+    "category": "OBC"
+  },
+  {
+    "name": "Rahul Das",
+    "dob": "1988-02-11",
+    "nationality": "Indian",
+    "religion": "Hindu",
+    "sex": "Male",
+    "category": "SC"
+  },
+  {
+    "name": "Meera Dutta",
+    "dob": "1993-09-29",
+    "nationality": "Indian",
+    "religion": "Hindu",
+    "sex": "Female",
+    "category": "General"
+  },
+  {
+    "name": "Vikram Rao",
+    "dob": "1987-12-05",
+    "nationality": "Indian",
+    "religion": "Hindu",
+    "sex": "Male",
+    "category": "OBC"
+  },
+  {
+    "name": "Sara Fernandes",
+    "dob": "1991-04-14",
+    "nationality": "Indian",
+    "religion": "Christian",
+    "sex": "Female",
+    "category": "General"
+  },
+  {
+    "name": "Rajesh Kumar",
+    "dob": "1984-06-25",
+    "nationality": "Indian",
+    "religion": "Hindu",
+    "sex": "Male",
+    "category": "SC"
+  },
+  {
+    "name": "Priya Yadav",
+    "dob": "1996-08-12",
+    "nationality": "Indian",
+    "religion": "Hindu",
+    "sex": "Female",
+    "category": "OBC"
+  }
+]
